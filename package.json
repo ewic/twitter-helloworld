@@ -1,0 +1,7 @@
+{
+  "name": "Twitter Hello World",
+  "version": "0.0",
+  "dependencies": {
+    "node-twitter-api": "^1.6.1"
+  }
+}
